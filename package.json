@@ -1,10 +1,10 @@
 {
-  "name": "caliente crimelife",
-  "version": "2.2.0",
-  "description": "caliente Crimelife - 2026",
-  "main": "index.js",
+  "name": "dc-bot",
+  "version": "1.0.0",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
+  }
+}
   },
   "author": "Ciro",
   "license": "ISC",
